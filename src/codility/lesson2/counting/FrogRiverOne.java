@@ -3,6 +3,11 @@ package codility.lesson2.counting;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * 100%
+ * @author jorge.cellerino
+ *
+ */
 public class FrogRiverOne {
 
     public static void main(String[] args) {
