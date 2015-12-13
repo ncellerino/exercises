@@ -2,6 +2,11 @@ package codility.lesson4.sorting;
 
 import java.util.Arrays;
 
+/**
+ * 100%
+ * @author Jorge
+ *
+ */
 public class MaxProductOfThree {
     
     public static void main(String[] args){
