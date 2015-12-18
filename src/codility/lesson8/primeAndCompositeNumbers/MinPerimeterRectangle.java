@@ -1,5 +1,10 @@
 package codility.lesson8.primeAndCompositeNumbers;
 
+/**
+ * 100%
+ * @author jorge.cellerino
+ *
+ */
 public class MinPerimeterRectangle {
 
     public static void main(String args[]) {
