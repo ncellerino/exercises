@@ -1,4 +1,4 @@
-package codility.lesson2.counting;
+package codility.lesson4.counting;
 
 import java.util.HashSet;
 import java.util.Set;
